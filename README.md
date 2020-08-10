@@ -2,18 +2,19 @@
 
 
 
-<center>
-	<pre>░█▀▄░█▀█░█▀█░█░█░░░█▀█░█▀▀░█░█░█░█░█▀▀░█▀█
+```
+░█▀▄░█▀█░█▀█░█░█░░░█▀█░█▀▀░█░█░█░█░█▀▀░█▀█
 ░█░█░█▀█░█░█░█▀█░░░█░█░█░█░█░█░░█░░█▀▀░█░█
 ░▀▀░░▀░▀░▀░▀░▀░▀░░░▀░▀░▀▀▀░▀▀▀░░▀░░▀▀▀░▀░▀
 ~~~Shane~~~
-	</pre>
-	<a href="mailto:shanenoi@gmail.com"><img src="https://img.shields.io/badge/-shanenoi.org%40gmail.com-informational?style=social&logo=gmail"></a>
-	<a href="https://www.messenger.com/t/shanenoi.nguyen"><img src="https://img.shields.io/badge/-shanenoi.nguyen-informational?style=social&logo=messenger"></a>
-	<a href="https://join.skype.com/invite/WoxDPsaFHFSW"><img src="https://img.shields.io/badge/-Danh Nguyễn-informational?style=social&logo=skype"></a>
-	<img src="https://img.shields.io/badge/Phone-0846425782-informational?style=social"><br>
-	<a href="https://linkedin.com/in/danh-nguy%E1%BB%85n-shanenoi3264/"><img src="https://img.shields.io/badge/-Danh Nguyễn-informational?style=social&logo=linkedin"></a><br>
-	</center>
+```
+
+<a href="mailto:shanenoi@gmail.com"><img src="https://img.shields.io/badge/-shanenoi.org%40gmail.com-informational?style=social&logo=gmail"></a>
+<a href="https://www.messenger.com/t/shanenoi.nguyen"><img src="https://img.shields.io/badge/-shanenoi.nguyen-informational?style=social&logo=messenger"></a>
+<a href="https://join.skype.com/invite/WoxDPsaFHFSW"><img src="https://img.shields.io/badge/-Danh Nguyễn-informational?style=social&logo=skype"></a><br>
+<img src="https://img.shields.io/badge/Phone-0846425782-informational?style=social">
+<a href="https://linkedin.com/in/danh-nguy%E1%BB%85n-shanenoi3264/"><img src="https://img.shields.io/badge/-Danh Nguyễn-informational?style=social&logo=linkedin"></a><br>
+
 
 ___
 ### _**Competition 🏆 Teamwork 🤝 Experience 🧠**_
@@ -40,9 +41,9 @@ ___
 ![mongo](https://img.shields.io/badge/-MongoDB-informational?&logo=mongodb)|![progress](https://progress-bar.dev/55/?scale=100&width=300&suffix=%)
 ![ml](https://img.shields.io/badge/-Machine&#160;Learning-blue?&logo=tensorflow)|![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
 ___
-<center>Mình có sở thích <code>touch</code> data 📈, học nhiều công nghệ mới 🔬 đọc sách 📔,<br>
-đặt biệt là nghiên cứu các <code>low-level programming language</code> 🧾<br>
-Không <code>ngán</code> bất kỳ project nào 🙊, miễn đủ thời gian để ngâm cú ⏳<center>
+> _Mình có sở thích `touch` data 📈 học nhiều công nghệ mới 🔬 đọc sách 📔<br>
+> đặt biệt là nghiên cứu `low-level programming languages` 🧾<br>
+> Không `ngán` bất kỳ project nào 🙊, miễn đủ thời gian để ngâm cú ⏳_
 
 ___
 
