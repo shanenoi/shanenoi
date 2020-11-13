@@ -45,6 +45,15 @@ ___
 ![sqlite](https://img.shields.io/badge/-Sqlite-red?&logo=sqlite)|![progress](https://progress-bar.dev/55/?scale=100&width=300&suffix=%)
 ![mongo](https://img.shields.io/badge/-MongoDB-informational?&logo=mongodb)|![progress](https://progress-bar.dev/55/?scale=100&width=300&suffix=%)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madogiwa0124&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madogiwa0124&hide=html,swift" />
+</a>
+
+
 ___
 > _Mình có sở thích `touch` data 📈 học nhiều công nghệ mới 🔬 đọc sách 📔<br>
 > đặt biệt là nghiên cứu `low-level programming languages` 🧾<br>
