@@ -20,7 +20,7 @@
 
 ___
 ### _**Competition 🏆 Teamwork 🤝 Experience 🧠**_
-+ 💼 _**Ruby Back-end Developer of [PATITEK](http://www.patitek.com/) [10/2020-now]**_
++ 💼 _**Ruby Back-end Developer of [@PATITEK](https://github.com/PATITEK) [10/2020-now]**_
 + 💻 _**Hackathon Online 2019**_
 + 💻 _**ICPC**_
 + ...
