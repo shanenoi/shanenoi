@@ -3,6 +3,7 @@
 
 
 
+
 ```
 ░█▀▄░█▀█░█▀█░█░█░░░█▀█░█▀▀░█░█░█░█░█▀▀░█▀█
 ░█░█░█▀█░█░█░█▀█░░░█░█░█░█░█░█░░█░░█▀▀░█░█
@@ -45,17 +46,15 @@ ___
 ![sqlite](https://img.shields.io/badge/-Sqlite-red?&logo=sqlite)|![progress](https://progress-bar.dev/55/?scale=100&width=300&suffix=%)
 ![mongo](https://img.shields.io/badge/-MongoDB-informational?&logo=mongodb)|![progress](https://progress-bar.dev/55/?scale=100&width=300&suffix=%)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shanenoi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanenoi" />
-</a>&nbsp;
+<img align="left" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shanenoi&custom_title=Weekly%20Development%20Breakdown&line_height=17"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanenoi"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanenoi&count_private=true&show_icons=true"/>
 
 ___
 > _Mình có sở thích `touch` data 📈 học nhiều công nghệ mới 🔬 đọc sách 📔<br>
 > đặt biệt là nghiên cứu `low-level programming languages` 🧾<br>
-> Không `ngán` bất kỳ project nào 🙊, miễn đủ thời gian để ngâm cú ⏳_
+> Không `ngán` bất kỳ project nào 🙊, miễn đủ thời gian để ngâm cú ⏳<br>
+> я ненавижу Windows!_
 
 ___
 
