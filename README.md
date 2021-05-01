@@ -1,5 +1,3 @@
-> if you don't familiar with this UI, you can switch to [this one](https://gist.github.com/shanenoi/217fa6a56403558b9b45716aea23173c)
-
 ```
 
 ███╗░░░███╗██████╗░░░░░██████╗██╗░░██╗░█████╗░███╗░░██╗███████╗
