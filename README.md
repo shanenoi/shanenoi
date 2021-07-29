@@ -44,7 +44,7 @@ ___
 
 <a href="https://github.com/E-RETECH/Arc-Engine"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=E-RETECH&repo=Arc-Engine&theme=dark"/></a>
 
-<a href="https://github.com/shanenoi/fuzzering"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=fuzzering&theme=dark"/></a>
+<a href="https://github.com/shanenoi/fuzzering"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=fuzzering&theme=radical"/></a>
 
 <a href="https://github.com/shanenoi/Researching"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=Researching&theme=merko"/></a>
 <a href="https://github.com/shanenoi/Foliage"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=Foliage&theme=gruvbox"/></a>
