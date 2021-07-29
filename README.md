@@ -23,7 +23,6 @@ ___
 + :briefcase: _**Ruby Back-end Developer of [@PATITEK](https://github.com/PATITEK) [10/2020-now]**_
 + :computer: _**Gamejam-Gamelotf**_
 + ...
-&emsp;Còn nhìu lém tại mình lười ghi 😆
 ---
 
 
@@ -45,7 +44,7 @@ ___
 
 <a href="https://github.com/E-RETECH/Arc-Engine"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=E-RETECH&repo=Arc-Engine&theme=dark"/></a>
 
-<a href="https://github.com/shanenoi/Finder"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=Finder&theme=radical"/></a><br>
+<a href="https://github.com/shanenoi/fuzzering"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=fuzzering&theme=dark"/></a>
 
 <a href="https://github.com/shanenoi/Researching"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=Researching&theme=merko"/></a>
 <a href="https://github.com/shanenoi/Foliage"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shanenoi&repo=Foliage&theme=gruvbox"/></a>
