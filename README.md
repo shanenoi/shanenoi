@@ -19,7 +19,7 @@
 ___
 ### _**Competition :trophy: Teamwork :gun: Experience :handbag:**_
 + :computer: _**Hackathon Online 2019**_
-+ :computer: _**ICPC 2020**_
++ :computer: _**ICPC {2020, 2021}**_
 + :briefcase: _**Ruby Back-end Developer of [@PATITEK](https://github.com/PATITEK) [10/2020-now]**_
 + :computer: _**Gamejam-Gamelotf**_
 + ...
