@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Shánenoi&fontAlign=30&fontAlignY=40&color=gradient)
 
 ```
-Hello I currently work as a backend engineer.
+Hello, I currently work as a backend engineer.
 ```
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
