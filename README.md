@@ -1,4 +1,11 @@
 <!--START_SECTION:waka-->
+```text
+YAML       11 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.87 % 
+Go         7 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
+Markdown   5 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Bash       2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other      1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
 <!--END_SECTION:waka-->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=shanenoi&line_height=17&theme=tokyonight&layout=compact"/>
