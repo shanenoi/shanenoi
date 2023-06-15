@@ -3,6 +3,8 @@
 ```
 Hello, I currently work as a backend engineer.
 ```
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danh-nguyễn-shan3264) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shanenoi) 
 
@@ -35,15 +37,7 @@ Hello, I currently work as a backend engineer.
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 
 
 
-
-
-
-![](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient&section=footer)
-
-
-
-| ![](https://github-readme-stats.vercel.app/api?username=shanenoi&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) | ![](https://github-readme-stats.vercel.app/api/wakatime?username=shanenoi&line_height=17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) |
-| :--- | ---: |
+![](profile-3d-contrib/profile-night-green.svg)
 
 
 |🏆GitHub Trophies| ✍️Random Dev Quote|
