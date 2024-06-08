@@ -2,7 +2,7 @@
 
 ```zig
 
-const Shanenoi = struct {
+const Self = struct {
     //! A programming enjoyer.
 };
 ```
