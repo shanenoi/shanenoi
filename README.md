@@ -43,3 +43,6 @@ Hello, I currently work as a backend engineer.
 |🏆GitHub Trophies| ✍️Random Dev Quote|
 | --- | --- |
 |![](https://github-profile-trophy.vercel.app/?username=shanenoi&theme=dracula&no-frame=true&no-bg=false&margin-w=4)| ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)|
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/110144211?v=4');]{x0000}$}
